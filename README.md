@@ -1,7 +1,9 @@
 ### Hi there 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AloneFancy&theme=cobalt)
 
->"Think Thousand times before taking a decision But - After taking decision never turn back even if you get Thousand difficulties!!"
+>„Denke tausendmal nach, bevor du eine Entscheidung triffst, und nachdem du eine Entscheidung getroffen hast, kehre nie um, selbst wenn du tausend Probleme bekommst!!“
+
+
 >
 >― <cite>A.H</cite>
 
